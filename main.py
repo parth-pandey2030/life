@@ -1,3 +1,3 @@
 # This Python file uses
 # Flask to diplay the data
-from ctypes import CDLL
+from flask import Flask, render_template
